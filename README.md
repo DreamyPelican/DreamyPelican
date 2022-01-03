@@ -1,6 +1,6 @@
 Hi, I’m @DreamyPelican a yet another beginner in development!
 
-I still search my path, but my heart swings between front-end, mobile and game development.
+I still searching my path, but my heart swings between front-end, mobile and game development.
 
 I'm currently learning OOP paradigm with Python and how to apply it. Despite I have so much
 to learn, it's really satisfying to create and find out how things works.

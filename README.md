@@ -1,4 +1,4 @@
-Hi, I’m @DreamyPelican a yet another beginner in development!
+Hi, I’m @DreamyPelican, a yet another beginner in development!
 
 I still searching my path, but my heart swings between front-end, mobile and game development.
 

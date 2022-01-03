@@ -7,7 +7,7 @@ to learn, it's really satisfying to create and find out how things works.
 And I'm also learning JavaScript by a professional training.
 
 If you want to reach me, here's my Discord : <br>
-DreamyPelican#2234
+<strong>DreamyPelican#2234</strong>
 
 
 

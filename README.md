@@ -4,7 +4,7 @@ I still searching my path, but my heart swings between front-end, mobile and gam
 
 I'm currently learning OOP paradigm with Python and how to apply it. Despite I have so much
 to learn, it's really satisfying to create and find out how things works.
-And I'm also learning JavaScript by a professional training.
+And I'm also learning HTML/CSS, JavaScript (plus de framework React) by a professional training.
 
 If you want to reach me, here's my Discord : <br>
 <strong>DreamyPelican#2234</strong>
